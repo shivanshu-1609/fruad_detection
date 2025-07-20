@@ -78,13 +78,18 @@ The model performed extremely well on unseen test data. Most fraudulent transact
 
 ---
 
-## 👨‍💻 Author
 
-**Shivanshu Shukla**  
-Electronics & AI Enthusiast | GATE 2026 Aspirant | ML & Data Science Practitioner
+## 🙋‍♂️ Author
+
+👨‍💻 **Shivanshu Shukla**  
+BTech | AI & ML Enthusiast  
+GitHub: [@shivanshu-1609](https://github.com/shivanshu-1609)
 
 ---
 
-## 📝 License
+## 🌐 Connect
 
-This project is for educational and research purposes.
+If you liked the project, leave a ⭐ on the repo!  
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shivanshu-shukla16/) for feedback, collaborations, or queries.
+
+---
